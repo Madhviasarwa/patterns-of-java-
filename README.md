@@ -4,7 +4,7 @@ This is a *Menu Driven Pattern Printing Application* developed in *Java* as part
 The project demonstrates how different *patterns* (stars, numbers, shapes) can be printed using *loops and modular programming*.
 
 ---
-
+ 
 ## 🎯 Features
 - *Interactive Menu* – Select the desired pattern from a console-based menu.
 - *Multiple Pattern Options* – Star patterns, numeric patterns, and more.
